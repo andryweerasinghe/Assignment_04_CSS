@@ -4,10 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fddb04a8-9306-44f0-a0b7-005d566ff852" name="Changes" comment="Case 01 completed">
-      <change afterPath="$PROJECT_DIR$/case02.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/case03.html" afterDir="false" />
+    <list default="true" id="fddb04a8-9306-44f0-a0b7-005d566ff852" name="Changes" comment="Case 04 completed">
+      <change afterPath="$PROJECT_DIR$/assets/animation_images/beautiful-shot-crystal-clear-lake-snowy-mountain-base-during-sunny-day.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/animation_images/beautiful-view-greenery-bridge-forest-perfect-background.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/animation_images/nice-landscape-with-boat.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/animation_images/silhouette-girl-guitarist-sunset.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/case05.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/animation_slide/slide1.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/animation_slide/slide2.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/animation_slide/slide3.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/animation_slide/slide4.jpeg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +47,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/home/naveenandry/IdeaProjects/CSS_Assignment_04",
+    "last_opened_file_path": "/home/naveenandry/IdeaProjects/CSS_Assignment_04/assets/animation_slide",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -51,6 +58,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/animation_slide" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
@@ -62,7 +70,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1711082461412</updated>
-      <workItem from="1711082462462" duration="830000" />
+      <workItem from="1711082462462" duration="1605000" />
     </task>
     <task id="LOCAL-00001" summary="Case 01 completed">
       <option name="closed" value="true" />
@@ -72,7 +80,23 @@
       <option name="project" value="LOCAL" />
       <updated>1711086525676</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Case 02 &amp; 03 completed">
+      <option name="closed" value="true" />
+      <created>1711099382621</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1711099382621</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Case 04 completed">
+      <option name="closed" value="true" />
+      <created>1711103357530</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1711103357530</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -80,6 +104,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Case 01 completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="Case 01 completed" />
+    <MESSAGE value="Case 02 &amp; 03 completed" />
+    <MESSAGE value="Case 04 completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Case 04 completed" />
   </component>
 </project>
